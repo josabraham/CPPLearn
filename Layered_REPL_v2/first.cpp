@@ -11,7 +11,7 @@
 // -----------------------------------------------------
 // Dependency - GNU ReadLine Library (-lreadline )
 // ------------------------------------------------------
-//  g++ first.cpp command_processing.cpp internal_commands.cpp spawn_commands.cpp -lreadline
+//  g++ first.cpp command_processing.cpp internal_commands.cpp spawn_commands.cpp command_helper.cpp -lreadline
 // ----------------------------------------------------------
 // ./a.out ( Type exit to come out of the REPL loop )
 //
